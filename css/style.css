@@ -1,0 +1,42 @@
+body {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+ul.nobullet {
+    list-style: none;
+}
+
+h1.nopad {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: rgb(219, 72, 14);
+}
+a:hover {
+    background-color: black;
+}
+a:visited {
+    color: rgb(219, 72, 14);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h1.green {
+    color: #007a00;
+}
+
+a.nocolor {
+    color:black;
+}
