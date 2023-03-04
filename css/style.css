@@ -1,8 +1,14 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+
 body {
     max-width: 960px;
     margin: 0 auto;
     padding: 10px;
 }
+
 
 ul.nobullet {
     list-style: none;
@@ -11,6 +17,10 @@ ul.nobullet {
 h1.nopad {
     padding: 0;
     margin: 0;
+}
+
+h2 {
+    margin-top: 0.67em!important;
 }
 
 a {
@@ -23,21 +33,15 @@ a:visited {
     color: rgb(219, 72, 14);
 }
 
+td {
+    padding: 0px 15px 6px 0px;
+    vertical-align: top;
+  }
 
-
-
-
-
-
-
-
-
-
-
-h1.green {
-    color: #007a00;
+.topextramargin {
+    margin-top: 0.67em;
 }
 
-a.nocolor {
-    color:black;
+.tablenumbers {
+    font-variant-numeric: tabular-nums;
 }
