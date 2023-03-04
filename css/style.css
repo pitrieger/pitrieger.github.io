@@ -45,3 +45,7 @@ td {
 .tablenumbers {
     font-variant-numeric: tabular-nums;
 }
+
+.container {
+    justify-content: center;
+}
