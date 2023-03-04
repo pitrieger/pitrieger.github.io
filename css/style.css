@@ -33,6 +33,15 @@ a:visited {
     color: rgb(219, 72, 14);
 }
 
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+
 td {
     padding: 0px 15px 6px 0px;
     vertical-align: top;
