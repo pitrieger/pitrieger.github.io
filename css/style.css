@@ -46,6 +46,10 @@ td {
     vertical-align: top;
   }
 
+.yearcolumn {
+    width: 120px;
+}
+
 .topextramargin {
     margin-top: 0.67em;
 }
